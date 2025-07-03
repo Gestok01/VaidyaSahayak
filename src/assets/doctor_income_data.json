@@ -1,0 +1,65 @@
+[
+    {
+      "doctorId": "DOC001",
+      "doctorName": "Dr. Smith",
+      "doctorCut": 12000,
+      "clinicCut": 8000,
+      "totalIncome": 20000
+    },
+    {
+      "doctorId": "DOC002",
+      "doctorName": "Dr. Johnson",
+      "doctorCut": 15000,
+      "clinicCut": 10000,
+      "totalIncome": 25000
+    },
+    {
+      "doctorId": "DOC003",
+      "doctorName": "Dr. Williams",
+      "doctorCut": 18000,
+      "clinicCut": 12000,
+      "totalIncome": 30000
+    },
+    {
+        "doctorId": "DOC004",
+        "doctorName": "Dr. Smith",
+        "doctorCut": 12000,
+        "clinicCut": 8000,
+        "totalIncome": 20000
+      },
+      {
+        "doctorId": "DOC005",
+        "doctorName": "Dr. Johnson",
+        "doctorCut": 15000,
+        "clinicCut": 10000,
+        "totalIncome": 25000
+      },
+      {
+        "doctorId": "DOC006",
+        "doctorName": "Dr. Williams",
+        "doctorCut": 18000,
+        "clinicCut": 12000,
+        "totalIncome": 30000
+      },
+      {
+        "doctorId": "DOC007",
+        "doctorName": "Dr. Smith",
+        "doctorCut": 12000,
+        "clinicCut": 8000,
+        "totalIncome": 20000
+      },
+      {
+        "doctorId": "DOC008",
+        "doctorName": "Dr. Johnson",
+        "doctorCut": 15000,
+        "clinicCut": 10000,
+        "totalIncome": 25000
+      },
+      {
+        "doctorId": "DOC009",
+        "doctorName": "Dr. Williams",
+        "doctorCut": 18000,
+        "clinicCut": 12000,
+        "totalIncome": 30000
+      }
+  ]

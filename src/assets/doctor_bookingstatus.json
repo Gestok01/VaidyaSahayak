@@ -1,0 +1,72 @@
+[
+    {
+      "doctorId": "DOC001",
+      "doctorName": "Dr. Rajesh Sharma",
+      "appointmentDate": "15-05-2023",
+      "totalBooking": 25,
+      "confirmedBooking": 20
+    },
+    {
+      "doctorId": "DOC002",
+      "doctorName": "Dr. Priya Patel",
+      "appointmentDate": "16-05-2023",
+      "totalBooking": 18,
+      "confirmedBooking": 15
+    },
+    {
+      "doctorId": "DOC003",
+      "doctorName": "Dr. Amit Kumar",
+      "appointmentDate": "17-05-2023",
+      "totalBooking": 22,
+      "confirmedBooking": 18
+    },
+    {
+      "doctorId": "DOC004",
+      "doctorName": "Dr. Neha Gupta",
+      "appointmentDate": "18-05-2023",
+      "totalBooking": 20,
+      "confirmedBooking": 16
+    },
+    {
+      "doctorId": "DOC005",
+      "doctorName": "Dr. Sanjay Verma",
+      "appointmentDate": "19-05-2023",
+      "totalBooking": 15,
+      "confirmedBooking": 12
+    },
+    {
+      "doctorId": "DOC006",
+      "doctorName": "Dr. Anjali Singh",
+      "appointmentDate": "20-05-2023",
+      "totalBooking": 17,
+      "confirmedBooking": 14
+    },
+    {
+      "doctorId": "DOC007",
+      "doctorName": "Dr. Vikram Joshi",
+      "appointmentDate": "21-05-2023",
+      "totalBooking": 19,
+      "confirmedBooking": 15
+    },
+    {
+      "doctorId": "DOC008",
+      "doctorName": "Dr. Meera Desai",
+      "appointmentDate": "22-05-2023",
+      "totalBooking": 14,
+      "confirmedBooking": 10
+    },
+    {
+      "doctorId": "DOC009",
+      "doctorName": "Dr. Arjun Reddy",
+      "appointmentDate": "23-05-2023",
+      "totalBooking": 16,
+      "confirmedBooking": 12
+    },
+    {
+      "doctorId": "DOC010",
+      "doctorName": "Dr. Sunita Iyer",
+      "appointmentDate": "24-05-2023",
+      "totalBooking": 12,
+      "confirmedBooking": 10
+    }
+  ]

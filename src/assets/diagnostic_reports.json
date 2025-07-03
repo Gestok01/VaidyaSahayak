@@ -1,0 +1,112 @@
+[
+    {
+        "slNo": "001",
+        "testName": "COMPLETE BLOOD COUNT (CBC)",
+        "testGroup": "HEMATOLOGY",
+        "testDate": "20-02-2025",
+        "price": 1200,
+        "discount": 10,
+        "discountType": "PERCENTAGE",
+        "reportStatus": "BOOKED",
+        "deliveryDate": "21-02-2025"
+    },
+    {
+        "slNo": "002",
+        "testName": "LIPID PROFILE",
+        "testGroup": "BIOCHEMISTRY",
+        "testDate": "21-02-2025",
+        "price": 2000,
+        "discount": 200,
+        "discountType": "FLAT DISCOUNT",
+        "reportStatus": "INPROGRESS",
+        "deliveryDate": "22-02-2025"
+    },
+    {
+        "slNo": "003",
+        "testName": "LIVER FUNCTION TEST (LFT)",
+        "testGroup": "BIOCHEMISTRY",
+        "testDate": "22-02-2025",
+        "price": 1800,
+        "discount": 15,
+        "discountType": "PERCENTAGE",
+        "reportStatus": "COMPLETED",
+        "deliveryDate": "23-02-2025"
+    },
+    {
+        "slNo": "004",
+        "testName": "THYROID PROFILE (T3, T4, TSH)",
+        "testGroup": "ENDOCHRINOLOGY",
+        "testDate": "23-02-2025",
+        "price": 1500,
+        "discount": 150,
+        "discountType": "FLAT DISCOUNT",
+        "reportStatus": "COMPLETED",
+        "deliveryDate": "24-02-2025"
+    },
+    {
+        "slNo": "005",
+        "testName": "BLOOD SUGAR (FASTING & PP)",
+        "testGroup": "DIABETES",
+        "testDate": "24-02-2025",
+        "price": 500,
+        "discount": 50,
+        "discountType": "FLAT DISCOUNT",
+        "reportStatus": "BOOKED",
+        "deliveryDate": "25-02-2025"
+    },
+    {
+        "slNo": "006",
+        "testName": "VITAMIN D TEST",
+        "testGroup": "VITAMINS",
+        "testDate": "25-02-2025",
+        "price": 2200,
+        "discount": 10,
+        "discountType": "PERCENTAGE",
+        "reportStatus": "COMPLETED",
+        "deliveryDate": "26-02-2025"
+    },
+    {
+        "slNo": "007",
+        "testName": "URINE ROUTINE",
+        "testGroup": "URINALYSIS",
+        "testDate": "26-02-2025",
+        "price": 600,
+        "discount": 5,
+        "discountType": "PERCENTAGE",
+        "reportStatus": "BOOKED",
+        "deliveryDate": "27-02-2025"
+    },
+    {
+        "slNo": "008",
+        "testName": "ELECTROLYTE PANEL",
+        "testGroup": "BIOCHEMISTRY",
+        "testDate": "27-02-2025",
+        "price": 1600,
+        "discount": 160,
+        "discountType": "FLAT DISCOUNT",
+        "reportStatus": "COMPLETED",
+        "deliveryDate": "28-02-2025"
+    },
+    {
+        "slNo": "009",
+        "testName": "COVID-19 RT-PCR",
+        "testGroup": "VIROLOGY",
+        "testDate": "28-02-2025",
+        "price": 2500,
+        "discount": 0,
+        "discountType": "FLAT DISCOUNT",
+        "reportStatus": "INPROGRESS",
+        "deliveryDate": "01-03-2025"
+    },
+    {
+        "slNo": "010",
+        "testName": "HBA1C",
+        "testGroup": "DIABETES",
+        "testDate": "01-03-2025",
+        "price": 800,
+        "discount": 80,
+        "discountType": "FLAT DISCOUNT",
+        "reportStatus": "COMPLETED",
+        "deliveryDate": "02-03-2025"
+    }
+]

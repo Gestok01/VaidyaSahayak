@@ -1,0 +1,67 @@
+"use client"
+import DynamicSearchPage from '@/app/components/DynamicSearchPage'
+import React from 'react'
+import Image from "next/image";
+import UPLOAD from '@/assets/svg/arrow_upload_progress_24dp_EA33F7_FILL0_wght400_GRAD0_opsz24.svg'
+import { useRouter } from 'next/navigation';
+
+const page = () => {
+    const searchTags = ["From"];
+    const router = useRouter();
+    const handleSearch = () => {
+    router.push('/doctor/status/daywisePayment/daywiselist');};
+    
+    return (
+        <div className="relative" style={{ width: '100%', minHeight: '100vh' }}>
+            <div 
+                className="absolute flex items-center gap-2"
+                style={{
+                    width: '881px',
+                    height: '20px',
+                    top: '52px',
+                    left: '42px'
+                }}
+            >
+                <Image 
+                    src={UPLOAD} 
+                    alt="Upload icon" 
+                    width={20}  
+                    height={20} 
+                    className="mr-1"
+                />
+                <span className="text-[#999999] text-2xl font-semibold">
+                    Status
+                </span>
+                <span className="text-[#999999] text-2xl">&gt;</span>
+                <span className="text-[#999999] text-2xl font-semibold">
+                    Doctor Payment Status
+                </span>
+                <span className="text-[#999999] text-2xl">&gt;</span>
+                <span className="text-[#999999] text-2xl font-semibold">
+                    Day Wise Payment
+                </span>
+                <span className="text-[#999999] text-2xl">&gt;</span>
+                <span className="text-[#4D4D4D] text-2xl font-semibold">
+                    Search By Date
+                </span>
+            </div>
+
+            <div 
+                className="absolute"
+                style={{
+                    width: '352px',
+                    height: '128px',
+                    top: '108px',
+                    left: '42px'
+                }}
+            >
+                
+                <DynamicSearchPage tags={searchTags} 
+                onSearch={handleSearch}/>
+
+            </div>
+        </div>
+    )
+}
+
+export default page;

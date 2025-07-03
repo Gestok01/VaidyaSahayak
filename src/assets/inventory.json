@@ -1,0 +1,102 @@
+[
+    {
+      "slNo": 1,
+      "itemId": "SURG-001",
+      "itemName": "Surgical Gloves",
+      "category": "Surgical",
+      "unit": "pair",
+      "updatedAt": "15-05-2024",
+      "updatedBy": "DR001",
+      "stock": "150"
+    },
+    {
+      "slNo": 2,
+      "itemId": "PHARM-002",
+      "itemName": "Paracetamol Tablets",
+      "category": "Pharmaceutical",
+      "unit": "g",
+      "updatedAt": "22-03-2025",
+      "updatedBy": "PH002",
+      "stock": "500"
+    },
+    {
+      "slNo": 3,
+      "itemId": "DIAG-003",
+      "itemName": "Blood Glucose Test Strips",
+      "category": "Diagnostic",
+      "unit": "box",
+      "updatedAt": "10-07-2024",
+      "updatedBy": "DR003",
+      "stock": "200"
+    },
+    {
+      "slNo": 4,
+      "itemId": "LAB-004",
+      "itemName": "Microscope Slides",
+      "category": "Laboratory",
+      "unit": "box",
+      "updatedAt": "05-08-2024",
+      "updatedBy": "PH004",
+      "stock": "50"
+    },
+    {
+      "slNo": 5,
+      "itemId": "SURG-005",
+      "itemName": "Surgical Masks",
+      "category": "Surgical",
+      "unit": "box",
+      "updatedAt": "18-01-2025",
+      "updatedBy": "DR005",
+      "stock": "75"
+    },
+    {
+      "slNo": 6,
+      "itemId": "PHARM-006",
+      "itemName": "Antibiotic Ointment",
+      "category": "Pharmaceutical",
+      "unit": "g",
+      "updatedAt": "28-02-2025",
+      "updatedBy": "PH006",
+      "stock": "120"
+    },
+    {
+      "slNo": 7,
+      "itemId": "DIAG-007",
+      "itemName": "Pregnancy Test Kit",
+      "category": "Diagnostic",
+      "unit": "kit",
+      "updatedAt": "12-01-2025",
+      "updatedBy": "DR007",
+      "stock": "90"
+    },
+    {
+      "slNo": 8,
+      "itemId": "LAB-008",
+      "itemName": "Petri Dishes",
+      "category": "Laboratory",
+      "unit": "pack",
+      "updatedAt": "25-12-2024",
+      "updatedBy": "PH008",
+      "stock": "80"
+    },
+    {
+      "slNo": 9,
+      "itemId": "SURG-009",
+      "itemName": "Surgical Sutures",
+      "category": "Surgical",
+      "unit": "pack",
+      "updatedAt": "08-06-2024",
+      "updatedBy": "DR009",
+      "stock": "300"
+    },
+    {
+      "slNo": 10,
+      "itemId": "PHARM-010",
+      "itemName": "Antiseptic Solution",
+      "category": "Pharmaceutical",
+      "unit": "l",
+      "updatedAt": "20-12-2024",
+      "updatedBy": "PH010",
+      "stock": "25"
+    }
+  ]

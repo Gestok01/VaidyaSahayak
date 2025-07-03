@@ -1,0 +1,73 @@
+
+[
+    {
+      "attributeId": "AMB001",
+      "attributeName": "Basic Life Support",
+      "costPerHour": 1500,
+      "costPerUse": 2500,
+      "description": "Basic medical care during transport"
+    },
+    {
+      "attributeId": "AMB002",
+      "attributeName": "Advanced Life Support",
+      "costPerHour": 2500,
+      "costPerUse": 4000,
+      "description": "Advanced medical care with equipment"
+    },
+    {
+      "attributeId": "AMB003",
+      "attributeName": "Neonatal Transport",
+      "costPerHour": 3000,
+      "costPerUse": 5000,
+      "description": "Specialized transport for newborns"
+    },
+    {
+      "attributeId": "AMB004",
+      "attributeName": "Critical Care Transport",
+      "costPerHour": 3500,
+      "costPerUse": 6000,
+      "description": "For critically ill patients"
+    },
+    {
+      "attributeId": "AMB005",
+      "attributeName": "Bariatric Transport",
+      "costPerHour": 2000,
+      "costPerUse": 3500,
+      "description": "For overweight patients"
+    },
+    {
+      "attributeId": "AMB006",
+      "attributeName": "Psychiatric Transport",
+      "costPerHour": 1800,
+      "costPerUse": 3000,
+      "description": "For mental health patients"
+    },
+    {
+      "attributeId": "AMB007",
+      "attributeName": "Air Ambulance",
+      "costPerHour": 15000,
+      "costPerUse": 25000,
+      "description": "Helicopter transport"
+    },
+    {
+      "attributeId": "AMB008",
+      "attributeName": "Isolation Transport",
+      "costPerHour": 2200,
+      "costPerUse": 3800,
+      "description": "For infectious disease cases"
+    },
+    {
+      "attributeId": "AMB009",
+      "attributeName": "Organ Transport",
+      "costPerHour": 4000,
+      "costPerUse": 7000,
+      "description": "Specialized organ transport"
+    },
+    {
+      "attributeId": "AMB010",
+      "attributeName": "Disaster Response",
+      "costPerHour": 2800,
+      "costPerUse": 4500,
+      "description": "For mass casualty incidents"
+    }
+  ]

@@ -1,0 +1,122 @@
+[
+  {
+    "slNo": 1,
+    "testName": "Complete Blood Count (CBC)",
+    "testGroup": "Hematology",
+    "isActive": "Yes",
+    "description": "Measures various components of blood including RBC, WBC, hemoglobin, hematocrit, and platelets",
+    "inMemDisc": "10%",
+    "inSenDisc": "15%",
+    "otherMemDisc": "5%",
+    "otherLabDisc": "8%",
+    "remark": "Basic screening test"
+  },
+  {
+    "slNo": 2,
+    "testName": "Comprehensive Metabolic Panel",
+    "testGroup": "Biochemistry",
+    "isActive": "Yes",
+    "description": "Measures glucose, calcium, electrolytes, kidney function, and liver enzymes",
+    "inMemDisc": "12%",
+    "inSenDisc": "18%",
+    "otherMemDisc": "6%",
+    "otherLabDisc": "10%",
+    "remark": "Fasting required for accurate glucose"
+  },
+  {
+    "slNo": 3,
+    "testName": "Thyroid Function Test (TFT)",
+    "testGroup": "Hormones",
+    "isActive": "Yes",
+    "description": "Measures TSH, Free T4, Free T3, and Thyroid antibodies",
+    "inMemDisc": "8%",
+    "inSenDisc": "12%",
+    "otherMemDisc": "4%",
+    "otherLabDisc": "7%",
+    "remark": "Morning sample preferred for TSH"
+  },
+  {
+    "slNo": 4,
+    "testName": "Liver Function Test (LFT)",
+    "testGroup": "Biochemistry",
+    "isActive": "Yes",
+    "description": "Includes ALT, AST, ALP, bilirubin, total protein, and albumin",
+    "inMemDisc": "15%",
+    "inSenDisc": "20%",
+    "otherMemDisc": "10%",
+    "otherLabDisc": "12%",
+    "remark": "Avoid alcohol 24h prior"
+  },
+  {
+    "slNo": 5,
+    "testName": "Renal Function Test (RFT)",
+    "testGroup": "Biochemistry",
+    "isActive": "Yes",
+    "description": "Includes creatinine, BUN, electrolytes, and eGFR calculation",
+    "inMemDisc": "10%",
+    "inSenDisc": "15%",
+    "otherMemDisc": "5%",
+    "otherLabDisc": "8%",
+    "remark": "Hydration affects results"
+  },
+  {
+    "slNo": 6,
+    "testName": "HbA1c (Glycated Hemoglobin)",
+    "testGroup": "Diabetes",
+    "isActive": "Yes",
+    "description": "3-month average of blood glucose levels",
+    "inMemDisc": "12%",
+    "inSenDisc": "16%",
+    "otherMemDisc": "8%",
+    "otherLabDisc": "10%",
+    "remark": "No fasting required"
+  },
+  {
+    "slNo": 7,
+    "testName": "Vitamin D (25-OH)",
+    "testGroup": "Vitamins",
+    "isActive": "Yes",
+    "description": "Measures vitamin D deficiency/insufficiency",
+    "inMemDisc": "5%",
+    "inSenDisc": "10%",
+    "otherMemDisc": "0%",
+    "otherLabDisc": "5%",
+    "remark": "Higher demand in winter"
+  },
+  {
+    "slNo": 8,
+    "testName": "Urinalysis (Complete)",
+    "testGroup": "Urinalysis",
+    "isActive": "Yes",
+    "description": "Physical, chemical and microscopic examination of urine",
+    "inMemDisc": "20%",
+    "inSenDisc": "25%",
+    "otherMemDisc": "15%",
+    "otherLabDisc": "18%",
+    "remark": "First morning void preferred"
+  },
+  {
+    "slNo": 9,
+    "testName": "Electrocardiogram (ECG)",
+    "testGroup": "Cardiology",
+    "isActive": "Yes",
+    "description": "Records electrical activity of the heart",
+    "inMemDisc": "10%",
+    "inSenDisc": "15%",
+    "otherMemDisc": "5%",
+    "otherLabDisc": "8%",
+    "remark": "Rest for 5 minutes before"
+  },
+  {
+    "slNo": 10,
+    "testName": "Chest X-ray (PA View)",
+    "testGroup": "Radiology",
+    "isActive": "Yes",
+    "description": "Imaging of chest including lungs, heart, and bones",
+    "inMemDisc": "15%",
+    "inSenDisc": "20%",
+    "otherMemDisc": "10%",
+    "otherLabDisc": "12%",
+    "remark": "Remove metal objects"
+  }
+]

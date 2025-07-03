@@ -1,0 +1,82 @@
+[
+    {
+      "slNo": 1,
+      "month": "January 2023",
+      "category": "Consultation",
+      "receivedTotalCash": 185000,
+      "receivedTotalCard": 125000,
+      "refund": 15000
+    },
+    {
+      "slNo": 2,
+      "month": "January 2023",
+      "category": "Diagnostics",
+      "receivedTotalCash": 225000,
+      "receivedTotalCard": 158000,
+      "refund": 22000
+    },
+    {
+      "slNo": 3,
+      "month": "February 2023",
+      "category": "Consultation",
+      "receivedTotalCash": 195000,
+      "receivedTotalCard": 142000,
+      "refund": 18000
+    },
+    {
+      "slNo": 4,
+      "month": "February 2023",
+      "category": "Diagnostics",
+      "receivedTotalCash": 245000,
+      "receivedTotalCard": 168000,
+      "refund": 25000
+    },
+    {
+      "slNo": 5,
+      "month": "March 2023",
+      "category": "Consultation",
+      "receivedTotalCash": 215000,
+      "receivedTotalCard": 152000,
+      "refund": 20000
+    },
+    {
+        "slNo": 6,
+        "month": "January 2023",
+        "category": "Consultation",
+        "receivedTotalCash": 185000,
+        "receivedTotalCard": 125000,
+        "refund": 15000
+      },
+      {
+        "slNo": 7,
+        "month": "January 2023",
+        "category": "Diagnostics",
+        "receivedTotalCash": 225000,
+        "receivedTotalCard": 158000,
+        "refund": 22000
+      },
+      {
+        "slNo": 8,
+        "month": "February 2023",
+        "category": "Consultation",
+        "receivedTotalCash": 195000,
+        "receivedTotalCard": 142000,
+        "refund": 18000
+      },
+      {
+        "slNo": 9,
+        "month": "February 2023",
+        "category": "Diagnostics",
+        "receivedTotalCash": 245000,
+        "receivedTotalCard": 168000,
+        "refund": 25000
+      },
+      {
+        "slNo": 10,
+        "month": "March 2023",
+        "category": "Consultation",
+        "receivedTotalCash": 215000,
+        "receivedTotalCard": 152000,
+        "refund": 20000
+      }
+  ]

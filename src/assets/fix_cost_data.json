@@ -1,0 +1,98 @@
+[
+    {
+      "itemId": "FC001",
+      "itemName": "Office Rent",
+      "category": "Rent",
+      "unit": "Monthly",
+      "cost": 5000,
+      "remark": "Downtown location"
+    },
+    {
+      "itemId": "FC002",
+      "itemName": "Internet",
+      "category": "Utilities",
+      "unit": "Monthly",
+      "cost": 120,
+      "remark": "Business plan"
+    },
+    {
+      "itemId": "FC003",
+      "itemName": "Salaries",
+      "category": "Payroll",
+      "unit": "Monthly",
+      "cost": 15000,
+      "remark": "Full-time staff"
+    },
+    {
+        "itemId": "FC004",
+        "itemName": "Office Rent",
+        "category": "Rent",
+        "unit": "Monthly",
+        "cost": 5000,
+        "remark": "Downtown location"
+      },
+      {
+        "itemId": "FC005",
+        "itemName": "Internet",
+        "category": "Utilities",
+        "unit": "Monthly",
+        "cost": 120,
+        "remark": "Business plan"
+      },
+      {
+        "itemId": "FC006",
+        "itemName": "Salaries",
+        "category": "Payroll",
+        "unit": "Monthly",
+        "cost": 15000,
+        "remark": "Full-time staff"
+      },
+      {
+        "itemId": "FC007",
+        "itemName": "Office Rent",
+        "category": "Rent",
+        "unit": "Monthly",
+        "cost": 5000,
+        "remark": "Downtown location"
+      },
+      {
+        "itemId": "FC008",
+        "itemName": "Internet",
+        "category": "Utilities",
+        "unit": "Monthly",
+        "cost": 120,
+        "remark": "Business plan"
+      },
+      {
+        "itemId": "FC009",
+        "itemName": "Salaries",
+        "category": "Payroll",
+        "unit": "Monthly",
+        "cost": 15000,
+        "remark": "Full-time staff"
+      },
+      {
+        "itemId": "FC010",
+        "itemName": "Office Rent",
+        "category": "Rent",
+        "unit": "Monthly",
+        "cost": 5000,
+        "remark": "Downtown location"
+      },
+      {
+        "itemId": "FC011",
+        "itemName": "Internet",
+        "category": "Utilities",
+        "unit": "Monthly",
+        "cost": 120,
+        "remark": "Business plan"
+      },
+      {
+        "itemId": "FC012",
+        "itemName": "Salaries",
+        "category": "Payroll",
+        "unit": "Monthly",
+        "cost": 15000,
+        "remark": "Full-time staff"
+      }
+  ]

@@ -1,0 +1,72 @@
+[
+    {
+      "doctorId": "DOC001",
+      "doctorName": "Dr. Rajesh Sharma",
+      "doctorCut": "₹12,500",
+      "clinicCut": "₹12,500",
+      "totalPayment": "₹25,000"
+    },
+    {
+      "doctorId": "DOC002",
+      "doctorName": "Dr. Priya Patel",
+      "doctorCut": "₹10,000",
+      "clinicCut": "₹10,000",
+      "totalPayment": "₹20,000"
+    },
+    {
+      "doctorId": "DOC003",
+      "doctorName": "Dr. Amit Kumar",
+      "doctorCut": "₹9,000",
+      "clinicCut": "₹9,000",
+      "totalPayment": "₹18,000"
+    },
+    {
+      "doctorId": "DOC004",
+      "doctorName": "Dr. Neha Gupta",
+      "doctorCut": "₹8,500",
+      "clinicCut": "₹8,500",
+      "totalPayment": "₹17,000"
+    },
+    {
+      "doctorId": "DOC005",
+      "doctorName": "Dr. Sanjay Verma",
+      "doctorCut": "₹7,500",
+      "clinicCut": "₹7,500",
+      "totalPayment": "₹15,000"
+    },
+    {
+      "doctorId": "DOC006",
+      "doctorName": "Dr. Anjali Singh",
+      "doctorCut": "₹6,000",
+      "clinicCut": "₹6,000",
+      "totalPayment": "₹12,000"
+    },
+    {
+      "doctorId": "DOC007",
+      "doctorName": "Dr. Vikram Joshi",
+      "doctorCut": "₹5,500",
+      "clinicCut": "₹5,500",
+      "totalPayment": "₹11,000"
+    },
+    {
+      "doctorId": "DOC008",
+      "doctorName": "Dr. Meera Desai",
+      "doctorCut": "₹5,000",
+      "clinicCut": "₹5,000",
+      "totalPayment": "₹10,000"
+    },
+    {
+      "doctorId": "DOC009",
+      "doctorName": "Dr. Arjun Reddy",
+      "doctorCut": "₹4,500",
+      "clinicCut": "₹4,500",
+      "totalPayment": "₹9,000"
+    },
+    {
+      "doctorId": "DOC010",
+      "doctorName": "Dr. Sunita Iyer",
+      "doctorCut": "₹4,000",
+      "clinicCut": "₹4,000",
+      "totalPayment": "₹8,000"
+    }
+  ]

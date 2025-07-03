@@ -1,0 +1,92 @@
+[
+    {
+      "slNo": 1,
+      "itemName": "Oxygen Cylinder (10L)",
+      "itemGroup": "Cylinders",
+      "costPerDay": "₹1200",
+      "costPerUnit": "₹120",
+      "createdBy": "Admin",
+      "remark": "Standard cylinder"
+    },
+    {
+      "slNo": 2,
+      "itemName": "Oxygen Concentrator",
+      "itemGroup": "Machines",
+      "costPerDay": "₹2500",
+      "costPerUnit": "₹250",
+      "createdBy": "Admin",
+      "remark": "5LPM capacity"
+    },
+    {
+      "slNo": 3,
+      "itemName": "Nasal Cannula",
+      "itemGroup": "Accessories",
+      "costPerDay": "₹150",
+      "costPerUnit": "₹15",
+      "createdBy": "Staff",
+      "remark": "Adult size"
+    },
+    {
+      "slNo": 4,
+      "itemName": "Oxygen Mask",
+      "itemGroup": "Accessories",
+      "costPerDay": "₹200",
+      "costPerUnit": "₹20",
+      "createdBy": "Staff",
+      "remark": "With reservoir"
+    },
+    {
+      "slNo": 5,
+      "itemName": "Venturi Mask",
+      "itemGroup": "Accessories",
+      "costPerDay": "₹300",
+      "costPerUnit": "₹30",
+      "createdBy": "Admin",
+      "remark": "Set of 3"
+    },
+    {
+      "slNo": 6,
+      "itemName": "Oxygen Cylinder (5L)",
+      "itemGroup": "Cylinders",
+      "costPerDay": "₹800",
+      "costPerUnit": "₹80",
+      "createdBy": "Admin",
+      "remark": "Portable"
+    },
+    {
+      "slNo": 7,
+      "itemName": "Oxygen Flow Meter",
+      "itemGroup": "Accessories",
+      "costPerDay": "₹400",
+      "costPerUnit": "₹40",
+      "createdBy": "Staff",
+      "remark": "Digital display"
+    },
+    {
+      "slNo": 8,
+      "itemName": "Oxygen Regulator",
+      "itemGroup": "Accessories",
+      "costPerDay": "₹350",
+      "costPerUnit": "₹35",
+      "createdBy": "Admin",
+      "remark": "High pressure"
+    },
+    {
+      "slNo": 9,
+      "itemName": "Oxygen Humidifier",
+      "itemGroup": "Accessories",
+      "costPerDay": "₹250",
+      "costPerUnit": "₹25",
+      "createdBy": "Staff",
+      "remark": "Disposable"
+    },
+    {
+      "slNo": 10,
+      "itemName": "Oxygen Tubing",
+      "itemGroup": "Accessories",
+      "costPerDay": "₹180",
+      "costPerUnit": "₹18",
+      "createdBy": "Admin",
+      "remark": "7ft length"
+    }
+  ]

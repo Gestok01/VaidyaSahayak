@@ -1,0 +1,83 @@
+[
+    {
+      "slNo": "001",
+      "category": "CARDIOLOGY",
+      "testName": "Heart Test",
+      "seniorInHouse": "10%",
+      "membersInHouse": "8%",
+      "seniorOutside": "5%",
+      "price": "$150",
+      "status": "Active"
+    },
+    {
+      "slNo": "002",
+      "category": "NEUROLOGY",
+      "testName": "Brain MRI",
+      "seniorInHouse": "12%",
+      "membersInHouse": "10%",
+      "seniorOutside": "6%",
+      "price": "$200",
+      "status": "Active"
+    },
+    {
+      "slNo": "003",
+      "category": "ORTHOPEDICS",
+      "testName": "Bone Density Scan",
+      "seniorInHouse": "15%",
+      "membersInHouse": "12%",
+      "seniorOutside": "8%",
+      "price": "$180",
+      "status": "Inactive"
+    },
+    {
+      "slNo": "004",
+      "category": "DERMATOLOGY",
+      "testName": "Skin Allergy Test",
+      "seniorInHouse": "8%",
+      "membersInHouse": "5%",
+      "seniorOutside": "3%",
+      "price": "$100",
+      "status": "Active"
+    },
+    {
+      "slNo": "005",
+      "category": "GASTROENTEROLOGY",
+      "testName": "Endoscopy",
+      "seniorInHouse": "10%",
+      "membersInHouse": "7%",
+      "seniorOutside": "4%",
+      "price": "$250",
+      "status": "Active"
+    },
+    {
+      "slNo": "006",
+      "category": "NEPHROLOGY",
+      "testName": "Kidney Function Test",
+      "seniorInHouse": "9%",
+      "membersInHouse": "6%",
+      "seniorOutside": "3%",
+      "price": "$120",
+      "status": "Inactive"
+    },
+    {
+      "slNo": "007",
+      "category": "HEMATOLOGY",
+      "testName": "Complete Blood Count (CBC)",
+      "seniorInHouse": "7%",
+      "membersInHouse": "5%",
+      "seniorOutside": "2%",
+      "price": "$90",
+      "status": "Active"
+    },
+    {
+      "slNo": "008",
+      "category": "ENDOCRINOLOGY",
+      "testName": "Thyroid Function Test",
+      "seniorInHouse": "10%",
+      "membersInHouse": "8%",
+      "seniorOutside": "5%",
+      "price": "$110",
+      "status": "Active"
+    }
+  ]
+  

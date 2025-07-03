@@ -1,0 +1,38 @@
+[
+    {
+      "slNo": 101,
+      "doctorName": "Dr. Smith",
+      "workingDays": "MONDAY",
+      "startTime": "09 AM",
+      "endTime": "12:30 PM"
+    },
+    {
+      "slNo": 102,
+      "doctorName": "Dr. Johnson",
+      "workingDays": "TUESDAY",
+      "startTime": "10 AM",
+      "endTime": "02 PM"
+    },
+    {
+      "slNo": 103,
+      "doctorName": "Dr. Williams",
+      "workingDays": "WEDNESDAY",
+      "startTime": "08 AM",
+      "endTime": "01 PM"
+    },
+    {
+      "slNo": 104,
+      "doctorName": "Dr. Brown",
+      "workingDays": "THURSDAY",
+      "startTime": "11 AM",
+      "endTime": "04 PM"
+    },
+    {
+      "slNo": 105,
+      "doctorName": "Dr. Taylor",
+      "workingDays": "FRIDAY",
+      "startTime": "09:30 AM",
+      "endTime": "01:30 PM"
+    }
+  ]
+  

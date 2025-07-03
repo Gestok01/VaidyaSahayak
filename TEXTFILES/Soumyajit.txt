@@ -1,0 +1,38 @@
+Appointment 
+
+a.Create a middle page to select a doctor 
+b.On the main booking page there will only be three things 
+  1>patient info be done by adding name and phone number 
+  2> doctor info is already selected so no need to add a new date for the appointment
+  3>on payment status everything is going to be default and no need to select payment mode if not needed
+
+
+DIAGNOSTICS
+
+a.On Patient profile two things are only mandate name and phone number ,rest optional
+b.On Items date and time  will be default current date and time 
+c.Same thing for payment 
+
+
+OXYGEN
+a.On Patient profile two things are only mandate name and phone number ,rest optional
+b.On item information Item name and start date is only thing 
+c.There will be no oxygen unit, there will be unit with per unit price system / NEED TO FIX THIS DO CALL BEFORE WORKING ON THIS
+
+
+VACCINE
+
+a.On Patient profile two things are only mandate name and phone number ,rest optional
+b.Vaccine name should  be there and vaccine date and time should be default time rest pending
+c.Payment is same here as well 
+
+
+AMBULANCE
+
+a.On Patient profile two things are only mandate name and phone number ,rest optional
+b.one can build a ambulance bill with only name and phone number of the patient
+
+
+
+
+

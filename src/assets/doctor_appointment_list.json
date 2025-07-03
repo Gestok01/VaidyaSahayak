@@ -1,0 +1,98 @@
+[
+  {
+    "slNo": "B001",
+    "patientName": "Amit Sharma",
+    "phoneNumber": "9876543210",
+    "doctorName": "Dr. Rajiv Mehta",
+    "appointmentDate": "2025-02-20",
+    "appointmentTime": "10:30 AM",
+    "totalBill": "1500",
+    "paymentStatus": "PAID",
+    "status": "COMPLETED"
+
+  },
+  {
+    "slNo": "B002",
+    "patientName": "Neha Verma",
+    "phoneNumber": "9876543211",
+    "doctorName": "Dr. Anjali Kapoor",
+    "appointmentDate": "2025-02-21",
+    "appointmentTime": "11:00 AM",
+    "totalBill": "2000",
+    "paymentStatus": "PARTIAL",
+    "status": "BOOKED"
+   
+  },
+  {
+    "slNo": "B003",
+    "patientName": "Rahul Gupta",
+    "phoneNumber": "9876543212",
+    "doctorName": "Dr. Sandeep Malhotra",
+    "appointmentDate": "2025-02-22",
+    "appointmentTime": "02:00 PM",
+    "totalBill": "1200",
+    "paymentStatus": "PAID",
+    "status": "COMPLETED"
+  
+  },
+  {
+    "slNo": "B004",
+    "patientName": "Priya Singh",
+    "phoneNumber": "9876543213",
+    "doctorName": "Dr. Kavita Joshi",
+    "appointmentDate": "2025-02-23",
+    "appointmentTime": "04:30 PM",
+    "totalBill": "1800",
+    "paymentStatus": "PAID",
+    "status": "CANCELLED"
+
+  },
+  {
+    "slNo": "B005",
+    "patientName": "Vikram Arora",
+    "phoneNumber": "9876543214",
+    "doctorName": "Dr. Rohit Bansal",
+    "appointmentDate": "2025-02-24",
+    "appointmentTime": "09:00 AM",
+    "totalBill": "2500",
+    "paymentStatus": "UNPAID",
+    "status": "COMPLETED"
+ 
+  },
+  {
+    "slNo": "B006",
+    "patientName": "Avika Gaur",
+    "phoneNumber": "8876543213",
+    "doctorName": "Dr. Surbhi Joshi",
+    "appointmentDate": "2025-02-25",
+    "appointmentTime": "07:30 PM",
+    "totalBill": "3800",
+    "paymentStatus": "PARTIAL",
+    "status": "COMPLETED"
+
+  },
+  {
+    "slNo": "B007",
+    "patientName": "Neeta Singh",
+    "phoneNumber": "7876543213",
+    "doctorName": "Dr. Aryan Sharma",
+    "appointmentDate": "2025-02-26",
+    "appointmentTime": "09:30 AM",
+    "totalBill": "2300",
+    "paymentStatus": "PARTIAL",
+    "status": "CANCELLD"
+
+  },
+  {
+    "slNo": "B008",
+    "patientName": "Sara Kohli",
+    "phoneNumber": "6759743213",
+    "doctorName": "Dr. Mayank Gupta",
+    "appointmentDate": "2025-02-21",
+    "appointmentTime": "06:30 PM",
+    "totalBill": "6900",
+    "paymentStatus": "UNPAID",
+    "status": "BOOKED"
+
+  }
+]

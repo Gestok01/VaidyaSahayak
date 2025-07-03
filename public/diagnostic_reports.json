@@ -1,0 +1,112 @@
+[
+    {
+        "slNo": "TST001",
+        "testName": "Complete Blood Count (CBC)",
+        "testGroup": "Hematology",
+        "testDate": "20-02-2025",
+        "price": 1200,
+        "discount": 10,
+        "discountType": "Percentage",
+        "reportStatus": "Completed",
+        "deliveryDate": "21-02-2025"
+    },
+    {
+        "slNo": "TST002",
+        "testName": "Lipid Profile",
+        "testGroup": "Biochemistry",
+        "testDate": "21-02-2025",
+        "price": 2000,
+        "discount": 200,
+        "discountType": "Flat",
+        "reportStatus": "Pending",
+        "deliveryDate": "22-02-2025"
+    },
+    {
+        "slNo": "TST003",
+        "testName": "Liver Function Test (LFT)",
+        "testGroup": "Biochemistry",
+        "testDate": "22-02-2025",
+        "price": 1800,
+        "discount": 15,
+        "discountType": "Percentage",
+        "reportStatus": "Completed",
+        "deliveryDate": "23-02-2025"
+    },
+    {
+        "slNo": "TST004",
+        "testName": "Thyroid Profile (T3, T4, TSH)",
+        "testGroup": "Endocrinology",
+        "testDate": "23-02-2025",
+        "price": 1500,
+        "discount": 150,
+        "discountType": "Flat",
+        "reportStatus": "Completed",
+        "deliveryDate": "24-02-2025"
+    },
+    {
+        "slNo": "TST005",
+        "testName": "Blood Sugar (Fasting & PP)",
+        "testGroup": "Diabetes",
+        "testDate": "24-02-2025",
+        "price": 500,
+        "discount": 50,
+        "discountType": "Flat",
+        "reportStatus": "Pending",
+        "deliveryDate": "25-02-2025"
+    },
+    {
+        "slNo": "TST006",
+        "testName": "Vitamin D Test",
+        "testGroup": "Vitamins",
+        "testDate": "25-02-2025",
+        "price": 2200,
+        "discount": 10,
+        "discountType": "Percentage",
+        "reportStatus": "Completed",
+        "deliveryDate": "26-02-2025"
+    },
+    {
+        "slNo": "TST007",
+        "testName": "Urine Routine",
+        "testGroup": "Urinalysis",
+        "testDate": "26-02-2025",
+        "price": 600,
+        "discount": 5,
+        "discountType": "Percentage",
+        "reportStatus": "Pending",
+        "deliveryDate": "27-02-2025"
+    },
+    {
+        "slNo": "TST008",
+        "testName": "Electrolyte Panel",
+        "testGroup": "Biochemistry",
+        "testDate": "27-02-2025",
+        "price": 1600,
+        "discount": 160,
+        "discountType": "Flat",
+        "reportStatus": "Completed",
+        "deliveryDate": "28-02-2025"
+    },
+    {
+        "slNo": "TST009",
+        "testName": "COVID-19 RT-PCR",
+        "testGroup": "Virology",
+        "testDate": "28-02-2025",
+        "price": 2500,
+        "discount": 0,
+        "discountType": "None",
+        "reportStatus": "Processing",
+        "deliveryDate": "01-03-2025"
+    },
+    {
+        "slNo": "TST010",
+        "testName": "HBA1C",
+        "testGroup": "Diabetes",
+        "testDate": "01-03-2025",
+        "price": 800,
+        "discount": 80,
+        "discountType": "Flat",
+        "reportStatus": "Completed",
+        "deliveryDate": "02-03-2025"
+    }
+]

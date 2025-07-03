@@ -1,0 +1,58 @@
+[
+    {
+      "slNo": 1,
+      "categoryName": "Consultation",
+      "totalCash": 12500,
+      "totalCard": 3200,
+      "refund": 0
+    },
+    {
+      "slNo": 2,
+      "categoryName": "Laboratory",
+      "totalCash": 18500,
+      "totalCard": 7500,
+      "refund": 1200
+    },
+    {
+      "slNo": 3,
+      "categoryName": "Radiology",
+      "totalCash": 22000,
+      "totalCard": 9800,
+      "refund": 0
+    },
+    {
+      "slNo": 4,
+      "categoryName": "Pharmacy",
+      "totalCash": 35400,
+      "totalCard": 12600,
+      "refund": 800
+    },
+    {
+      "slNo": 5,
+      "categoryName": "Procedure",
+      "totalCash": 42000,
+      "totalCard": 15800,
+      "refund": 0
+    },
+    {
+      "slNo": 6,
+      "categoryName": "Room Charges",
+      "totalCash": 28700,
+      "totalCard": 9200,
+      "refund": 1500
+    },
+    {
+      "slNo": 7,
+      "categoryName": "Emergency",
+      "totalCash": 18300,
+      "totalCard": 6400,
+      "refund": 0
+    },
+    {
+      "slNo": 8,
+      "categoryName": "Other Services",
+      "totalCash": 9800,
+      "totalCard": 3200,
+      "refund": 400
+    }
+  ]

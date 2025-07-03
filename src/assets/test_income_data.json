@@ -1,0 +1,56 @@
+[
+    {
+      "date": "2023-05-01",
+      "radiologyIncome": 8500,
+      "pathologyIncome": 12000,
+      "totalIncome": 20500
+    },
+    {
+      "date": "2023-05-02",
+      "radiologyIncome": 9200,
+      "pathologyIncome": 15000,
+      "totalIncome": 24200
+    },
+    {
+      "date": "2023-05-03",
+      "radiologyIncome": 7800,
+      "pathologyIncome": 11000,
+      "totalIncome": 18800
+    },
+    {
+        "date": "2023-05-04",
+        "radiologyIncome": 8500,
+        "pathologyIncome": 12000,
+        "totalIncome": 20500
+      },
+      {
+        "date": "2023-05-05",
+        "radiologyIncome": 9200,
+        "pathologyIncome": 15000,
+        "totalIncome": 24200
+      },
+      {
+        "date": "2023-05-06",
+        "radiologyIncome": 7800,
+        "pathologyIncome": 11000,
+        "totalIncome": 18800
+      },
+      {
+        "date": "2023-05-07",
+        "radiologyIncome": 8500,
+        "pathologyIncome": 12000,
+        "totalIncome": 20500
+      },
+      {
+        "date": "2023-05-08",
+        "radiologyIncome": 9200,
+        "pathologyIncome": 15000,
+        "totalIncome": 24200
+      },
+      {
+        "date": "2023-05-09",
+        "radiologyIncome": 7800,
+        "pathologyIncome": 11000,
+        "totalIncome": 18800
+      }
+  ]

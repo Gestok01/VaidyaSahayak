@@ -1,0 +1,72 @@
+[
+    {
+        "billGroup": "TEST",
+        "date": "25-03-2025",
+        "cash": "457",
+        "card": "900",
+        "refund": "1500"
+    },
+    {
+        "billGroup": "APPOINTMENT",
+        "date": "15-03-2025",
+        "cash": "463",
+        "card": "830",
+        "refund": "1630"
+    },
+    {
+        "billGroup": "APPOINTMENT",
+        "date": "16-05-2025",
+        "cash": "273",
+        "card": "1000",
+        "refund": "2000"
+    },
+    {
+        "billGroup": "APPOINTMENT",
+        "date": "19-04-2025",
+        "cash": "192",
+        "card": "915",
+        "refund": "1715"
+    },
+    {
+        "billGroup": "TEST",
+        "date": "20-03-2025",
+        "cash": "354",
+        "card": "800",
+        "refund": "1800"
+    },
+    {
+        "billGroup": "APPOINTMENT",
+        "date": "17-04-2025",
+        "cash": "126",
+        "card": "930",
+        "refund": "1730"
+    },
+    {
+        "billGroup": "TEST",
+        "date": "27-04-2025",
+        "cash": "156",
+        "card": "1415",
+        "refund": "1815"
+    },
+    {
+        "billGroup": "TEST",
+        "date": "18-05-2025",
+        "cash": "192",
+        "card": "1045",
+        "refund": "1645"
+    },
+    {
+        "billGroup": "TEST",
+        "date": "21-03-2025",
+        "cash": "650",
+        "card": "900",
+        "refund": "1600"
+    },
+    {
+        "billGroup": "APPOINTMENT",
+        "date": "14-05-2025",
+        "cash": "192",
+        "card": "1030",
+        "refund": "1830"
+    }
+]

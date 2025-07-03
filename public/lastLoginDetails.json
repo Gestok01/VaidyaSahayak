@@ -1,0 +1,62 @@
+[
+    {
+        "slNo": "001",
+        "date": "20-02-2025",
+        "sessionId": "8f2d9a7b-3c",
+        "logInTime": "14:35:22",
+        "logOutTime": "20:35:20",
+        "ipAddress": "192.168.1.100",
+        "totalDuration": "06:00:02",
+        "device": "Windows 10"
+    },
+    {
+        "slNo": "002",
+        "date": "21-02-2025",
+        "sessionId": "9a4e3c2d-7b",
+        "logInTime": "09:15:10",
+        "logOutTime": "15:20:45",
+        "ipAddress": "192.168.1.101",
+        "totalDuration": "06:05:35",
+        "device": "MacOS 12"
+    },
+    {
+        "slNo": "003",
+        "date": "22-02-2025",
+        "sessionId": "5f6g8h2j-4d",
+        "logInTime": "10:45:30",
+        "logOutTime": "17:25:55",
+        "ipAddress": "192.168.1.102",
+        "totalDuration": "06:40:25",
+        "device": "Windows 11"
+    },
+    {
+        "slNo": "004",
+        "date": "23-02-2025",
+        "sessionId": "2k8m9n6p-1a",
+        "logInTime": "08:05:50",
+        "logOutTime": "14:10:20",
+        "ipAddress": "192.168.1.103",
+        "totalDuration": "06:04:30",
+        "device": "Ubuntu 22.04"
+    },
+    {
+        "slNo": "005",
+        "date": "24-02-2025",
+        "sessionId": "7q3w5e1r-6t",
+        "logInTime": "11:30:40",
+        "logOutTime": "18:45:15",
+        "ipAddress": "192.168.1.104",
+        "totalDuration": "07:14:35",
+        "device": "Windows 10"
+    },
+    {
+        "slNo": "006",
+        "date": "25-02-2025",
+        "sessionId": "3x8y2z7b-9k",
+        "logInTime": "07:50:15",
+        "logOutTime": "14:55:30",
+        "ipAddress": "192.168.1.105",
+        "totalDuration": "07:05:15",
+        "device": "MacOS 13"
+    }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "slNo": "B001",
+    "patientName": "Amit Sharma",
+    "phoneNumber": "9876543210",
+    "doctorName": "Dr. Rajiv Mehta",
+    "appointmentDate": "2025-02-20",
+    "appointmentTime": "10:30 AM",
+    "totalBill": "₹1500",
+    "paymentStatus": "Paid",
+    "status": "Completed"
+
+  },
+  {
+    "slNo": "B002",
+    "patientName": "Neha Verma",
+    "phoneNumber": "9876543211",
+    "doctorName": "Dr. Anjali Kapoor",
+    "appointmentDate": "2025-02-21",
+    "appointmentTime": "11:00 AM",
+    "totalBill": "₹2000",
+    "paymentStatus": "Pending",
+    "status": "Scheduled"
+   
+  },
+  {
+    "slNo": "B003",
+    "patientName": "Rahul Gupta",
+    "phoneNumber": "9876543212",
+    "doctorName": "Dr. Sandeep Malhotra",
+    "appointmentDate": "2025-02-22",
+    "appointmentTime": "02:00 PM",
+    "totalBill": "₹1200",
+    "paymentStatus": "Paid",
+    "status": "Completed"
+  
+  },
+  {
+    "slNo": "B004",
+    "patientName": "Priya Singh",
+    "phoneNumber": "9876543213",
+    "doctorName": "Dr. Kavita Joshi",
+    "appointmentDate": "2025-02-23",
+    "appointmentTime": "04:30 PM",
+    "totalBill": "₹1800",
+    "paymentStatus": "Pending",
+    "status": "Cancelled"
+
+  },
+  {
+    "slNo": "B005",
+    "patientName": "Vikram Arora",
+    "phoneNumber": "9876543214",
+    "doctorName": "Dr. Rohit Bansal",
+    "appointmentDate": "2025-02-24",
+    "appointmentTime": "09:00 AM",
+    "totalBill": "₹2500",
+    "paymentStatus": "Paid",
+    "status": "Completed"
+ 
+  }
+]

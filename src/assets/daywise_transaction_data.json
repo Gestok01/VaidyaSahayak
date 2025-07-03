@@ -1,0 +1,72 @@
+[
+    {
+      "slNo": 1,
+      "categoryName": "Consultation",
+      "totalCash": 12500,
+      "totalCard": 8500,
+      "refund": 1200
+    },
+    {
+      "slNo": 2,
+      "categoryName": "Diagnostics",
+      "totalCash": 18500,
+      "totalCard": 9200,
+      "refund": 800
+    },
+    {
+      "slNo": 3,
+      "categoryName": "Pharmacy",
+      "totalCash": 22500,
+      "totalCard": 15000,
+      "refund": 2500
+    },
+    {
+      "slNo": 4,
+      "categoryName": "Procedures",
+      "totalCash": 35000,
+      "totalCard": 28000,
+      "refund": 3200
+    },
+    {
+      "slNo": 5,
+      "categoryName": "Others",
+      "totalCash": 7500,
+      "totalCard": 4200,
+      "refund": 500
+    },
+    {
+        "slNo": 6,
+        "categoryName": "Consultation",
+        "totalCash": 12500,
+        "totalCard": 8500,
+        "refund": 1200
+      },
+      {
+        "slNo": 7,
+        "categoryName": "Diagnostics",
+        "totalCash": 18500,
+        "totalCard": 9200,
+        "refund": 800
+      },
+      {
+        "slNo": 8,
+        "categoryName": "Pharmacy",
+        "totalCash": 22500,
+        "totalCard": 15000,
+        "refund": 2500
+      },
+      {
+        "slNo": 9,
+        "categoryName": "Procedures",
+        "totalCash": 35000,
+        "totalCard": 28000,
+        "refund": 3200
+      },
+      {
+        "slNo": 10,
+        "categoryName": "Others",
+        "totalCash": 7500,
+        "totalCard": 4200,
+        "refund": 500
+      }
+  ]

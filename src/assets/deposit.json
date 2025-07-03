@@ -1,0 +1,102 @@
+[
+    {
+        "billId": "BILL001",
+        "patientName": "Nishant Verma",
+        "billGroup": "TEST",
+        "date": "25-03-2025",
+        "cash": "457",
+        "card": "900",
+        "refund": "1500",
+        "createdAt": "09:15"
+    },
+    {
+        "billId": "BILL002",
+        "patientName": "Sanya Jain",
+        "billGroup": "APPOINTMENT",
+        "date": "15-03-2025",
+        "cash": "463",
+        "card": "830",
+        "refund": "1630",
+        "createdAt": "10:30"
+    },
+    {
+        "billId": "BILL003",
+        "patientName": "Reema Gupta",
+        "billGroup": "APPOINTMENT",
+        "date": "16-05-2025",
+        "cash": "273",
+        "card": "1000",
+        "refund": "2000",
+        "createdAt": "11:45"
+    },
+    {
+        "billId": "BILL004",
+        "patientName": "Prashant Dwivedi",
+        "billGroup": "VACCINE",
+        "date": "19-04-2025",
+        "cash": "192",
+        "card": "915",
+        "refund": "1715",
+        "createdAt": "08:20"
+    },
+    {
+        "billId": "BILL005",
+        "patientName": "Vibhor Yadav",
+        "billGroup": "TEST",
+        "date": "20-03-2025",
+        "cash": "354",
+        "card": "800",
+        "refund": "1800",
+        "createdAt": "14:10"
+    },
+    {
+        "billId": "BILL006",
+        "patientName": "Aryan Mehta",
+        "billGroup": "APPOINTMENT",
+        "date": "17-04-2025",
+        "cash": "126",
+        "card": "930",
+        "refund": "1730",
+        "createdAt": "16:25"
+    },
+    {
+        "billId": "BILL007",
+        "patientName": "Riya Verma",
+        "billGroup": "TEST",
+        "date": "27-04-2025",
+        "cash": "156",
+        "card": "1415",
+        "refund": "1815",
+        "createdAt": "13:05"
+    },
+    {
+        "billId": "BILL008",
+        "patientName": "Monica Singh",
+        "billGroup": "VACCINE",
+        "date": "18-05-2025",
+        "cash": "192",
+        "card": "1045",
+        "refund": "1645",
+        "createdAt": "09:50"
+    },
+    {
+        "billId": "BILL009",
+        "patientName": "Arnav Vats",
+        "billGroup": "VACCINE",
+        "date": "21-03-2025",
+        "cash": "650",
+        "card": "900",
+        "refund": "1600",
+        "createdAt": "12:15"
+    },
+    {
+        "billId": "BILL010",
+        "patientName": "Raj Sharma",
+        "billGroup": "APPOINTMENT",
+        "date": "14-05-2025",
+        "cash": "192",
+        "card": "1030",
+        "refund": "1830",
+        "createdAt": "17:40"
+    }
+]

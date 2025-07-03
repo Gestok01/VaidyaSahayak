@@ -1,0 +1,93 @@
+
+    [
+      {
+        "slNo": "B001",
+        "MEMBERSHIP": "Premium",
+        "CONSULTING FEE": "₹1000",
+        "APPOINTMENT DATE": "2025-03-01",
+        "CLINIC'S CUT": "₹200",
+        "DOCTOR'S CUT": "₹800",
+        "DISCOUNT": "₹50",
+        "PAYMENT STATUS": "PAID",
+        "CREATED AT": "2025-02-28 10:15:00"
+      },
+      {
+        "slNo": "B002",
+        "MEMBERSHIP": "Basic",
+        "CONSULTING FEE": "₹800",
+        "APPOINTMENT DATE": "2025-03-02",
+        "CLINIC'S CUT": "₹160",
+        "DOCTOR'S CUT": "₹640",
+        "DISCOUNT": "₹20",
+        "PAYMENT STATUS": "PENDING",
+        "CREATED AT": "2025-02-28 12:30:00"
+      },
+      {
+        "slNo": "B003",
+        "MEMBERSHIP": "Gold",
+        "CONSULTING FEE": "₹1500",
+        "APPOINTMENT DATE": "2025-03-03",
+        "CLINIC'S CUT": "₹300",
+        "DOCTOR'S CUT": "₹1200",
+        "DISCOUNT": "₹100",
+        "PAYMENT STATUS": "PAID",
+        "CREATED AT": "2025-02-28 14:45:00"
+      },
+      {
+        "slNo": "B004",
+        "MEMBERSHIP": "Premium",
+        "CONSULTING FEE": "₹1200",
+        "APPOINTMENT DATE": "2025-03-04",
+        "CLINIC'S CUT": "₹240",
+        "DOCTOR'S CUT": "₹960",
+        "DISCOUNT": "₹80",
+        "PAYMENT STATUS": "PENDING",
+        "CREATED AT": "2025-02-28 16:00:00"
+      },
+      {
+        "slNo": "B005",
+        "MEMBERSHIP": "Basic",
+        "CONSULTING FEE": "₹700",
+        "APPOINTMENT DATE": "2025-03-05",
+        "CLINIC'S CUT": "₹140",
+        "DOCTOR'S CUT": "₹560",
+        "DISCOUNT": "₹30",
+        "PAYMENT STATUS": "PAID",
+        "CREATED AT": "2025-02-28 18:20:00"
+      },
+      {
+        "slNo": "B006",
+        "MEMBERSHIP": "Gold",
+        "CONSULTING FEE": "₹1300",
+        "APPOINTMENT DATE": "2025-03-06",
+        "CLINIC'S CUT": "₹260",
+        "DOCTOR'S CUT": "₹1040",
+        "DISCOUNT": "₹70",
+        "PAYMENT STATUS": "PAID",
+        "CREATED AT": "2025-02-28 19:45:00"
+      },
+      {
+        "slNo": "B007",
+        "MEMBERSHIP": "Premium",
+        "CONSULTING FEE": "₹1100",
+        "APPOINTMENT DATE": "2025-03-07",
+        "CLINIC'S CUT": "₹220",
+        "DOCTOR'S CUT": "₹880",
+        "DISCOUNT": "₹60",
+        "PAYMENT STATUS": "PENDING",
+        "CREATED AT": "2025-02-28 21:10:00"
+      },
+      {
+        "slNo": "B008",
+        "MEMBERSHIP": "Basic",
+        "CONSULTING FEE": "₹900",
+        "APPOINTMENT DATE": "2025-03-08",
+        "CLINIC'S CUT": "₹180",
+        "DOCTOR'S CUT": "₹720",
+        "DISCOUNT": "₹40",
+        "PAYMENT STATUS": "PAID",
+        "CREATED AT": "2025-02-28 22:30:00"
+      }
+    ]
+
+  

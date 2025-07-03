@@ -1,0 +1,102 @@
+[
+    {
+        "slNo": "P001",
+        "patientName": "John Doe",
+        "phoneNumber": "+919876543210",
+        "appointmentDate": "26-02-2025",
+        "appointmentTime": "14:02",
+        "status": "COMPLETED",
+        "paymentStatus": "PAID",
+        "createdAt": "25-02-2025"
+    },
+    {
+        "slNo": "P002",
+        "patientName": "Jane Smith",
+        "phoneNumber": "+918765432109",
+        "appointmentDate": "27-02-2025",
+        "appointmentTime": "10:30",
+        "status": "PENDING",
+        "paymentStatus": "UNPAID",
+        "createdAt": "26-02-2025"
+    },
+    {
+        "slNo": "P003",
+        "patientName": "Robert Brown",
+        "phoneNumber": "+917654321098",
+        "appointmentDate": "28-02-2025",
+        "appointmentTime": "16:45",
+        "status": "CANCELLED",
+        "paymentStatus": "REFUNDED",
+        "createdAt": "27-02-2025"
+    },
+    {
+        "slNo": "P004",
+        "patientName": "Emily Johnson",
+        "phoneNumber": "+916543210987",
+        "appointmentDate": "01-03-2025",
+        "appointmentTime": "09:15",
+        "status": "SCHEDULED",
+        "paymentStatus": "PAID",
+        "createdAt": "28-02-2025"
+    },
+    {
+        "slNo": "P005",
+        "patientName": "Michael Davis",
+        "phoneNumber": "+915432109876",
+        "appointmentDate": "02-03-2025",
+        "appointmentTime": "11:20",
+        "status": "COMPLETED",
+        "paymentStatus": "PAID",
+        "createdAt": "01-03-2025"
+    },
+    {
+        "slNo": "P006",
+        "patientName": "Sophia Martinez",
+        "phoneNumber": "+914321098765",
+        "appointmentDate": "03-03-2025",
+        "appointmentTime": "13:50",
+        "status": "SCHEDULED",
+        "paymentStatus": "PENDING",
+        "createdAt": "02-03-2025"
+    },
+    {
+        "slNo": "P007",
+        "patientName": "David Wilson",
+        "phoneNumber": "+913210987654",
+        "appointmentDate": "04-03-2025",
+        "appointmentTime": "15:00",
+        "status": "CANCELLED",
+        "paymentStatus": "REFUNDED",
+        "createdAt": "03-03-2025"
+    },
+    {
+        "slNo": "P008",
+        "patientName": "Olivia Taylor",
+        "phoneNumber": "+912109876543",
+        "appointmentDate": "05-03-2025",
+        "appointmentTime": "17:30",
+        "status": "COMPLETED",
+        "paymentStatus": "PAID",
+        "createdAt": "04-03-2025"
+    },
+    {
+        "slNo": "P009",
+        "patientName": "William Anderson",
+        "phoneNumber": "+911098765432",
+        "appointmentDate": "06-03-2025",
+        "appointmentTime": "08:40",
+        "status": "SCHEDULED",
+        "paymentStatus": "UNPAID",
+        "createdAt": "05-03-2025"
+    },
+    {
+        "slNo": "P010",
+        "patientName": "Isabella Thomas",
+        "phoneNumber": "+919876543211",
+        "appointmentDate": "07-03-2025",
+        "appointmentTime": "12:25",
+        "status": "PENDING",
+        "paymentStatus": "PAID",
+        "createdAt": "06-03-2025"
+    }
+]

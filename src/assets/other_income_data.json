@@ -1,0 +1,72 @@
+[
+    {
+      "slNo": 1,
+      "incomeId": "INC-001",
+      "amount": 5000,
+      "category": "Consultation Fees",
+      "description": "Specialist consultation"
+    },
+    {
+      "slNo": 2,
+      "incomeId": "INC-002",
+      "amount": 2500,
+      "category": "Miscellaneous",
+      "description": "Late fees collection"
+    },
+    {
+      "slNo": 3,
+      "incomeId": "INC-003",
+      "amount": 10000,
+      "category": "Facility Charges",
+      "description": "Private room charges"
+    },
+    {
+      "slNo": 4,
+      "incomeId": "INC-004",
+      "amount": 7500,
+      "category": "Equipment Rental",
+      "description": "Medical equipment rental"
+    },
+    {
+      "slNo": 5,
+      "incomeId": "INC-005",
+      "amount": 3000,
+      "category": "Other Services",
+      "description": "Additional services"
+    },
+    {
+        "slNo": 6,
+        "incomeId": "INC-001",
+        "amount": 5000,
+        "category": "Consultation Fees",
+        "description": "Specialist consultation"
+      },
+      {
+        "slNo": 7,
+        "incomeId": "INC-002",
+        "amount": 2500,
+        "category": "Miscellaneous",
+        "description": "Late fees collection"
+      },
+      {
+        "slNo": 8,
+        "incomeId": "INC-003",
+        "amount": 10000,
+        "category": "Facility Charges",
+        "description": "Private room charges"
+      },
+      {
+        "slNo": 9,
+        "incomeId": "INC-004",
+        "amount": 7500,
+        "category": "Equipment Rental",
+        "description": "Medical equipment rental"
+      },
+      {
+        "slNo": 10,
+        "incomeId": "INC-005",
+        "amount": 3000,
+        "category": "Other Services",
+        "description": "Additional services"
+      }
+  ]

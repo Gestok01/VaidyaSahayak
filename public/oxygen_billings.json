@@ -1,0 +1,122 @@
+[
+    {
+        "slNo": "001",
+        "patientName": "Mr. PRASHANT KUMAR",
+        "phoneNumber": "+919876543210",
+        "address": "xyz",
+        "paymentAmount": 12000,
+        "paymentStatus": "PENDING",
+        "startDate": "12/01/25",
+        "endDate": "12/01/25",
+        "status": "COMPLETED",
+        "totalBill": 1000.0
+    },
+    {
+        "slNo": "002",
+        "patientName": "Ms. ANITA SHARMA",
+        "phoneNumber": "+919812345678",
+        "address": "xyz",
+        "paymentAmount": 8500,
+        "paymentStatus": "PENDING",
+        "startDate": "15/01/25",
+        "endDate": "15/01/25",
+        "status": "BOOKED",
+        "totalBill": 2400
+    },
+    {
+        "slNo": "003",
+        "patientName": "Mr. RAJESH VERMA",
+        "phoneNumber": "+919745612398",
+        "address": "xyz",
+        "paymentAmount": 15000,
+        "paymentStatus": "PAID",
+        "startDate": "18/01/25",
+        "endDate": "18/01/25",
+        "status": "CANCELLED",
+        "totalBill": 2400
+    },
+    {
+        "slNo": "004",
+        "patientName": "Mrs. POOJA AGARWAL",
+        "phoneNumber": "+919888776655",
+        "address": "xyz",
+        "paymentAmount": 10200,
+        "paymentStatus": "PAID",
+        "startDate": "20/01/25",
+        "endDate": "20/01/25",
+        "status": "COMPLETED",
+        "totalBill": 2400
+    },
+    {
+        "slNo": "005",
+        "patientName": "Mr. SURESH GUPTA",
+        "phoneNumber": "+919922334455",
+        "address": "xyz",
+        "paymentAmount": 7000,
+        "paymentStatus": "PENDING",
+        "startDate": "22/01/25",
+        "endDate": "22/01/25",
+        "status": "BOOKED",
+        "totalBill": 2400
+    },
+    {
+        "slNo": "006",
+        "patientName": "Ms. DEEPIKA JAIN",
+        "phoneNumber": "+919899445566",
+        "address": "xyz",
+        "paymentAmount": 9800,
+        "paymentStatus": "PAID",
+        "startDate": "25/01/25",
+        "endDate": "25/01/25",
+        "status": "CANCELLED",
+        "totalBill": 2400
+    },
+    {
+        "slNo": "007",
+        "patientName": "Mr. AMIT BHATIA",
+        "phoneNumber": "+919777888999",
+        "address": "xyz",
+        "paymentAmount": 14500,
+        "paymentStatus": "PENDING",
+        "startDate": "27/01/25",
+        "endDate": "27/01/25",
+        "status": "COMPLETED",
+        "totalBill": 2400
+    },
+    {
+        "slNo": "008",
+        "patientName": "Mrs. RITU CHOUDHARY",
+        "phoneNumber": "+919633221144",
+        "address": "xyz",
+        "paymentAmount": 11000,
+        "paymentStatus": "PENDING",
+        "startDate": "30/01/25",
+        "endDate": "30/01/25",
+        "status": "BOOKED",
+        "totalBill": 2400
+    },
+    {
+        "slNo": "009",
+        "patientName": "Mr. VIKAS MEHRA",
+        "phoneNumber": "+919844556677",
+        "address": "xyz",
+        "paymentAmount": 13200,
+        "paymentStatus": "PENDING",
+        "startDate": "02/02/25",
+        "endDate": "02/02/25",
+        "status": "CANCELLED",
+        "totalBill": 2000
+    },
+    {
+        "slNo": "010",
+        "patientName": "Ms. SONALI JOSHI",
+        "phoneNumber": "+919699887766",
+        "address": "xyz",
+        "paymentAmount": 12500,
+        "paymentStatus": "PENDING",
+        "startDate": "05/02/25",
+        "endDate": "05/02/25",
+        "status": "COMPLETED",
+        "totalBill": 2400
+    }
+]

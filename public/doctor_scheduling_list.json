@@ -1,0 +1,73 @@
+[
+    {
+      "slNo": 101,
+      "doctorName": "Dr. Smith",
+      "workingDays": "MONDAY",
+      "startTime": "09 AM",
+      "endTime": "12:30 PM"
+    },
+    {
+      "slNo": 102,
+      "doctorName": "Dr. Johnson",
+      "workingDays": "TUESDAY",
+      "startTime": "10 AM",
+      "endTime": "02 PM"
+    },
+    {
+      "slNo": 103,
+      "doctorName": "Dr. Williams",
+      "workingDays": "WEDNESDAY",
+      "startTime": "08 AM",
+      "endTime": "01 PM"
+    },
+    {
+      "slNo": 104,
+      "doctorName": "Dr. Brown",
+      "workingDays": "THURSDAY",
+      "startTime": "11 AM",
+      "endTime": "04 PM"
+    },
+    {
+      "slNo": 105,
+      "doctorName": "Dr. Taylor",
+      "workingDays": "FRIDAY",
+      "startTime": "09:30 AM",
+      "endTime": "01:30 PM"
+    },
+    {
+      "slNo": 106,
+      "doctorName": "Dr. Anderson",
+      "workingDays": "SATURDAY",
+      "startTime": "08 AM",
+      "endTime": "12 PM"
+    },
+    {
+      "slNo": 107,
+      "doctorName": "Dr. Thomas",
+      "workingDays": "MONDAY, WEDNESDAY, FRIDAY",
+      "startTime": "10 AM",
+      "endTime": "03 PM"
+    },
+    {
+      "slNo": 108,
+      "doctorName": "Dr. Martinez",
+      "workingDays": "TUESDAY, THURSDAY",
+      "startTime": "09 AM",
+      "endTime": "02 PM"
+    },
+    {
+      "slNo": 109,
+      "doctorName": "Dr. Harris",
+      "workingDays": "MONDAY - FRIDAY",
+      "startTime": "08 AM",
+      "endTime": "05 PM"
+    },
+    {
+      "slNo": 110,
+      "doctorName": "Dr. Clark",
+      "workingDays": "WEEKENDS",
+      "startTime": "10 AM",
+      "endTime": "02 PM"
+    }
+  ]
+  

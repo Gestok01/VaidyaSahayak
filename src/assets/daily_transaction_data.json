@@ -1,0 +1,122 @@
+[
+    {
+      "billNo": "BIL001",
+      "billGroup": "Group A",
+      "rate": 150.00,
+      "discount": 10.00,
+      "billAmount": 140.00,
+      "receivedAmount": 140.00,
+      "paymentMode": "Cash",
+      "refundAmount": 0.00,
+      "date": "2023-05-01",
+      "createdBy": "Admin"
+    },
+    {
+      "billNo": "BIL002",
+      "billGroup": "Group B",
+      "rate": 200.00,
+      "discount": 20.00,
+      "billAmount": 180.00,
+      "receivedAmount": 180.00,
+      "paymentMode": "Card",
+      "refundAmount": 0.00,
+      "date": "2023-05-01",
+      "createdBy": "Staff"
+    },
+    {
+      "billNo": "BIL003",
+      "billGroup": "Group C",
+      "rate": 300.00,
+      "discount": 0.00,
+      "billAmount": 300.00,
+      "receivedAmount": 300.00,
+      "paymentMode": "Cash",
+      "refundAmount": 0.00,
+      "date": "2023-05-02",
+      "createdBy": "Admin"
+    },
+    {
+      "billNo": "BIL004",
+      "billGroup": "Group A",
+      "rate": 250.00,
+      "discount": 25.00,
+      "billAmount": 225.00,
+      "receivedAmount": 220.00,
+      "paymentMode": "Card",
+      "refundAmount": 5.00,
+      "date": "2023-05-02",
+      "createdBy": "Staff"
+    },
+    {
+      "billNo": "BIL005",
+      "billGroup": "Group B",
+      "rate": 400.00,
+      "discount": 40.00,
+      "billAmount": 360.00,
+      "receivedAmount": 360.00,
+      "paymentMode": "Cash",
+      "refundAmount": 0.00,
+      "date": "2023-05-03",
+      "createdBy": "Admin"
+    },
+    {
+        "billNo": "BIL006",
+        "billGroup": "Group A",
+        "rate": 150.00,
+        "discount": 10.00,
+        "billAmount": 140.00,
+        "receivedAmount": 140.00,
+        "paymentMode": "Cash",
+        "refundAmount": 0.00,
+        "date": "2023-05-01",
+        "createdBy": "Admin"
+      },
+      {
+        "billNo": "BIL007",
+        "billGroup": "Group B",
+        "rate": 200.00,
+        "discount": 20.00,
+        "billAmount": 180.00,
+        "receivedAmount": 180.00,
+        "paymentMode": "Card",
+        "refundAmount": 0.00,
+        "date": "2023-05-01",
+        "createdBy": "Staff"
+      },
+      {
+        "billNo": "BIL008",
+        "billGroup": "Group C",
+        "rate": 300.00,
+        "discount": 0.00,
+        "billAmount": 300.00,
+        "receivedAmount": 300.00,
+        "paymentMode": "Cash",
+        "refundAmount": 0.00,
+        "date": "2023-05-02",
+        "createdBy": "Admin"
+      },
+      {
+        "billNo": "BIL009",
+        "billGroup": "Group A",
+        "rate": 250.00,
+        "discount": 25.00,
+        "billAmount": 225.00,
+        "receivedAmount": 220.00,
+        "paymentMode": "Card",
+        "refundAmount": 5.00,
+        "date": "2023-05-02",
+        "createdBy": "Staff"
+      },
+      {
+        "billNo": "BIL010",
+        "billGroup": "Group B",
+        "rate": 400.00,
+        "discount": 40.00,
+        "billAmount": 360.00,
+        "receivedAmount": 360.00,
+        "paymentMode": "Cash",
+        "refundAmount": 0.00,
+        "date": "2023-05-03",
+        "createdBy": "Admin"
+      }
+  ]

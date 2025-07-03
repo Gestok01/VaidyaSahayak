@@ -1,0 +1,6 @@
+No dynamic table
+doctor->status->daywisePayment-> list.tsx
+              ->doctorBooking-> list.tsx
+employment_management->categorywiseTransaction-> transaction.tsx
+                     ->loginReport-> list.tsx
+                     ->depositStatement-> deposit.tsx

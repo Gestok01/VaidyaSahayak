@@ -1,36 +1,106 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+VaidyaSahayak – Medical ERP System
+A comprehensive Medical ERP system built with React.js, Tailwind CSS, Node.js, and MongoDB, designed to streamline operations in clinics and healthcare centers.
 
-## Getting Started
+🚀 Project Overview
+VaidyaSahayak is a full-stack application that helps clinics manage their daily activities through dedicated modules, including:
 
-First, run the development server:
+💰 Billing Management
 
-```bash
+💉 Vaccine Inventory
+
+🚑 Ambulance Coordination
+
+🧴 Oxygen Supply Tracking
+
+👤 User Profile and Staff Management
+
+This system centralizes operations to assist administrators and receptionists in improving workflow and clinical efficiency.
+
+🛠 Tech Stack
+Frontend: React.js, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+API: RESTful services
+
+📦 Getting Started
+Prerequisites
+Make sure you have the following installed:
+
+Node.js
+
+npm or yarn
+
+MongoDB (local or cloud via MongoDB Atlas)
+
+Installation
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/vaidya-sahayak.git
+cd vaidya-sahayak
+Install dependencies:
+
+bash
+Copy
+Edit
+# For frontend
+cd client
+npm install
+
+# For backend
+cd ../server
+npm install
+Create .env file in /server and configure your MongoDB URI:
+
+env
+Copy
+Edit
+MONGO_URL=your_mongodb_connection_string
+PORT=5000
+Start the development servers:
+
+bash
+Copy
+Edit
+# Start backend
+cd server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# In a new terminal, start frontend
+cd client
+npm start
+Open your browser at http://localhost:3000 to see the app running.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+📸 Screenshots (Optional)
+Add UI screenshots here to showcase your app visually.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📚 Learn More
+To explore the libraries and tools used in this project:
 
-## Learn More
+React.js Documentation
 
-To learn more about Next.js, take a look at the following resources:
+Tailwind CSS Documentation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Node.js Docs
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+MongoDB Docs
 
-## Deploy on Vercel
+📤 Deployment
+You can deploy this app on platforms like:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Render
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Vercel (Frontend Only)
+
+Railway
+
+Netlify (Frontend)
+
+Refer to each platform’s documentation for setup instructions.
+
+ls.
